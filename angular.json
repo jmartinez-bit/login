@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "mibeatrizappfronted"
+  "defaultProject": "mibeatrizappfronted",
+  "cli": {
+    "analytics": "53c5afc4-3806-427c-b465-9cc2796ddd8e"
+  }
 }
